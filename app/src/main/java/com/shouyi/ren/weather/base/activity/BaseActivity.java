@@ -56,7 +56,7 @@ public abstract class BaseActivity extends SwipeBackActivity {
         StatusBarHelper helper = new StatusBarHelper(this,
                 StatusBarHelper.LEVEL_19_TRANSLUCENT,
                 StatusBarHelper.LEVEL_21_VIEW);
-        helper.setColor(getResources().getColor(R.color.appStatusBarColor));
+        helper.setColor(getResources().getColor(R.color.colorPrimary));
     }
 
     /**

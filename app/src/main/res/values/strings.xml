@@ -1,4 +1,13 @@
 <resources>
     <string name="app_name">Weather</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="can_not_find_version_name">找不到版本号</string>
+    <string name="nav_city">选择城市</string>
+    <string name="multi_cities">多城市管理</string>
+    <string name="setting">设置</string>
+    <string name="about">关于</string>
+    <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="app_html">https://github.com/zhoujianxing/Weather</string>
+    <string name="double_exit">再按一次退出</string>
 </resources>

@@ -14,8 +14,8 @@ import com.shouyi.ren.weather.mvp.BasePresenter;
  */
 
 public abstract class BaseMvpActivity<M extends BaseModel, P extends BasePresenter> extends BaseActivity {
-    private M model;
-    private P presenter;
+    public M model;
+    public P presenter;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
